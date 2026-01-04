@@ -32,3 +32,4 @@ nb = bike("MT 15")
 
 b.drive()
 c.drive()
+nb.drive()
