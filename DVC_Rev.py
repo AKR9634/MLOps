@@ -8,7 +8,7 @@ data = {
 df = pd.DataFrame(data)
 
 # 1st change
-# df.loc[len(df)] = ["Frank", 14]
+df.loc[len(df)] = ["Frank", 14]
 
 # 2nd change
 # df.loc[len(df)] = ["Thorffin", 17]
