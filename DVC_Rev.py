@@ -11,7 +11,7 @@ df = pd.DataFrame(data)
 df.loc[len(df)] = ["Frank", 14]
 
 # 2nd change
-# df.loc[len(df)] = ["Thorffin", 17]
+df.loc[len(df)] = ["Thorffin", 17]
 
 df.to_csv("students.csv", index=False)
 
