@@ -28,8 +28,6 @@ b = bike("Blaze Cruiser")
 
 c = car("Aston Martin Valhalla")
 
-nb = bike("MT 15") 
-
 b.drive()
 c.drive()
 nb.drive()
