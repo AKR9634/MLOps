@@ -30,4 +30,3 @@ c = car("Aston Martin Valhalla")
 
 b.drive()
 c.drive()
-nb.drive()
